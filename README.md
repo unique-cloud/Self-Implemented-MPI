@@ -1,6 +1,4 @@
-# Self-implemented basic MPI libraries tested with HW1 p1
-
-## This is a course project of CSC548 Parallel System.
+# Self-implemented basic MPI APIs
 
 To run the program, use
 
